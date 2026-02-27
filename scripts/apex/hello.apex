@@ -5,4 +5,4 @@
 // You can also execute the entire file by running the command:
 //     SFDX: Execute Anonymous Apex with Editor Contents
 
-System.debug(StringListTest.generateStringList(3));
+System.debug(AccountHandler.insertNewAccount('juansete prueba'));
